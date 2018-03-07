@@ -1,2 +1,2 @@
 # exercise-repo
-Evrithing is OK!
+Everything is OK!
