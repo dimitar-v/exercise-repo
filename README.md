@@ -1,4 +1,2 @@
 # exercise-repo
-Repo made for exercise
-We resolved the conflict!
-asddadadfsafasf adfs dfas fdsadf
+Evrithing is OK!
